@@ -1,0 +1,1 @@
+module.exports = { DB_USER : "Enter your DB username", DB_PASS : "Enter your DB password" };
